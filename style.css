@@ -1,0 +1,18 @@
+/* This is an optional file to make the page look better. */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+/* This class will be added by JavaScript for DOM Interaction 2 */
+.blue-text {
+    color: blue;
+}
